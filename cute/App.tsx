@@ -6,10 +6,10 @@
  */
 
 import React from 'react';
-import ReactMap from './View/ReactMaps';
+import KakaoMap from './View/KakaoMap';
 
 function App(): JSX.Element {
-  return <ReactMap></ReactMap>;
+  return <KakaoMap></KakaoMap>;
 }
 
 export default App;
